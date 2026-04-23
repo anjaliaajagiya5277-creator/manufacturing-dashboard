@@ -1,2 +1,11 @@
-# manufacturing-dashboard
-This project presents a manufacturing dashboard built using Tableau to analyze production performance, defect rates, and operational efficiency. It helps identify key trends and supports data-driven decision-making.
+# Manufacturing Dashboard (Tableau)
+
+## 📁 Files
+- manufacturing.twb
+- data.csv
+
+## ⚠️ Important
+Make sure both files are in the same folder before opening the dashboard.
+
+## 📊 Description
+This dashboard analyzes manufacturing performance, defect rates, and efficiency using Tableau.
